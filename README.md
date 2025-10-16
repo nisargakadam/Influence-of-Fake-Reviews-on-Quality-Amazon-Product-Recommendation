@@ -6,5 +6,5 @@ by Nisarga Kadam, Nicholas Cheung, Rei Imai
 - Combined real reviews and product meta data to use BLaIR to deliver reliable product recommendations. 
 
 
-![Amazon Dashboard](https://github.com/nisargakadam/Influence-of-Fake-Reviews-on-Quality-Amazon-Product-Recommendation/Dashboard_final.png)
+![Amazon Dashboard](https://github.com/nisargakadam/Influence-of-Fake-Reviews-on-Quality-Amazon-Product-Recommendation/blob/1ceebddc50541430ae54cb42e9aa5a9ca82fd869/Dashboard_final.png)
 
